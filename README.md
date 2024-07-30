@@ -2,9 +2,8 @@
 - 👀 I’m interested in full stack developer.
 - 🌱 I’m currently learning full stack developer at internshala 
 - 💞️ I’m looking to collaborate as frontend developer.
-- 📫 How to reach me ... :panduneha15@gmail.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 📫 How to reach me :panduneha15@gmail.com
+- ⚡ Fun fact:😅i love rat
 
 <!---
 dhamjewarneha/dhamjewarneha is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
